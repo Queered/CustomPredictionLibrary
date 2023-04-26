@@ -1,5 +1,7 @@
 # Resolver Library
 
+# NOTE: MY CODE WAS MESSY AS HELL I GOT CHATGPT TO REWRITE MY CODE(ORGANIZE, OPTIMIZE IT)
+
 The Resolver library provides utility functions for calculating and manipulating custom velocity vectors based on an object's CFrames.
 
 ## Functions
